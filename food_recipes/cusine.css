@@ -1,0 +1,23 @@
+.background-color{
+  background-color: rgb(58, 228, 81);
+  padding-bottom: 700px;
+  padding-top: 10px;
+}
+
+.Cuisine{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: brown;
+}
+
+.indian_food{
+  padding-top: 30px;
+  padding-left: 100px;
+}
+
+.indian{
+  padding-top: 5px;
+  padding-left: 100px;
+}
+

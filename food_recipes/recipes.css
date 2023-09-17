@@ -1,0 +1,28 @@
+.color{
+  padding-top: 100px;
+  padding-bottom: 350px;
+  background-color: aqua;
+}
+
+.recipes{
+  color:rgb(0, 145, 194);
+  text-align: center;
+}
+
+.info{
+  font-family: Verdana, Tahoma, sans-serif;
+  color: green;
+}
+
+.form{
+  font-family: Verdana, Tahoma, sans-serif;
+  color: rgb(192, 90, 90);
+}
+
+.hov:hover{
+  color:blueviolet;
+  opacity: 1s;
+}
+.hov:active{
+  opacity: 1s;
+}
